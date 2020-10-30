@@ -3,13 +3,11 @@
 *KV Subbaiah Setty*
 
 - email: <kvssetty@gmail.com>
-- twitter: [@kvssetty](https://twitter.com/kvssetty)
 - linkedin: [kvssetty](https://www.linkedin.com/in/kvssetty/)
 - website: [blog](https://kvssetty.com/)
 - github: [KVSSetty](https://github.com/KVSSetty)
-- facebook: [KvsSetty](https://www.facebook.com/kvssetty)
-- medium: [KV Subbaiah Setty](https://medium.com/@kvssetty)
-- online classes: [ML and DL guru](https://www.mlanddlguru.com/b)
+- medium: [KV Subbaiah Setty](https://kvssetty/medium.com/)
+
 
 This repository contains notebooks and other files associated with my
 **Data Science Tutorials** primarily using [`numpy`](http://www.numpy.org/) version 1.5 or later, [`matplotlib`](http://matplotlib.org/) version 1.3 or later,
